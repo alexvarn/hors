@@ -4,7 +4,7 @@
 
 Решение задания 1
 
-<span style="color:red">Рещения задачи 2 нет, так как Repsly не предоставила demo-доступ (копию переписки направлю Анастасии)</span>
+<span style="color:red">**Рещения задачи 2 нет, так как Repsly не предоставила demo-доступ (копию переписки направлю Анастасии)**</span>
 
 - [task3](https://github.com/alexvarn/hors/tree/master/task3)
 
