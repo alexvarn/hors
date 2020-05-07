@@ -4,7 +4,9 @@
 
 Решение задания 1
 
-<span style="color:red">**Рещения задачи 2 нет, так как Repsly не предоставила demo-доступ (копию переписки направлю Анастасии)**</span>
+- [task2](https://github.com/alexvarn/hors/tree/master/task2)
+
+Решение задания 2
 
 - [task3](https://github.com/alexvarn/hors/tree/master/task3)
 
