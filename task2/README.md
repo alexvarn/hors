@@ -1,6 +1,6 @@
 ## Описание файлов
 
-HORS_task2_script.json - решение задачи (google script)
+HORS_task2.js - решение задачи (google script)
 
 ## Ссылка на таблицу с результатом работы скрипта
 
