@@ -6,7 +6,7 @@
 
 - [task2](https://github.com/alexvarn/hors/tree/master/task2)
 
-Решение задания 2
+Решение задания 2  (добавлено 07.05.2020)
 
 - [task3](https://github.com/alexvarn/hors/tree/master/task3)
 
