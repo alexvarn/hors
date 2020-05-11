@@ -3,7 +3,7 @@
 task3.ipynb - решение задания  
 oulets.sql - изначальный файл sql таблицы  
 oulets_update.sql - файл и обновленным внешним ключом outlet_clean_id  
-oulets_clean.ipynb - дедублицированная таблица   
+oulets_clean.sql- дедублицированная таблица   
 
 ## Описание задания
 
